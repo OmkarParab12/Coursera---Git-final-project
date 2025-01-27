@@ -8,3 +8,6 @@ This repository contains all the files and tasks for the Final Project assignmen
 - CODE_OF_CONDUCT.md: Guidelines for community interaction
 - CONTRIBUTING.md: Contribution guidelines
 - simple-interest.sh: Script to calculate simple interest
+
+
+Fix typo in README.md
